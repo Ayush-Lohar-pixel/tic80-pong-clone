@@ -4,7 +4,7 @@ A Pong clone made in TIC-80 using Lua.
 
 ## Features
 
-- single-player gameplay
+- Single-player gameplay
 - Paddle collision
 - Score tracking
 
@@ -12,7 +12,7 @@ A Pong clone made in TIC-80 using Lua.
 
 | Player | Keys |
 |--------|------|
-| Player 1 | Up /Down|    
+| Player 1 | Up / Down|    
 
 ## How to Run
 
