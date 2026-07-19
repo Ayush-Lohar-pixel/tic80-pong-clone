@@ -20,6 +20,14 @@ A Pong clone made in TIC-80 using Lua.
 2. Open `pong_v1.tic`.
 3. Press Run.
 
+## Gameplay
+
+![Gameplay](images/gameplay.png)
+
+## Game Over Screen
+
+![Game Over Screen](images/game_over.png)
+
 ## Author
 
 Ayush Lohar
