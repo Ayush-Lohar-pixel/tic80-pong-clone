@@ -12,7 +12,7 @@ A Pong clone made in TIC-80 using Lua.
 
 | Player | Keys |
 |--------|------|
-| Player 1 | Up / Down|    
+| Player | Up / Down|    
 
 ## How to Run
 
